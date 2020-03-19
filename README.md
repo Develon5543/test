@@ -1,1 +1,1 @@
-Final README for 1.0
+Final README for 2.0
