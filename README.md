@@ -1,1 +1,1 @@
-Bad repo 0/10 would not recommend
+Good repo 10/10 would recommend
